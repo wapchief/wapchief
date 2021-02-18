@@ -7,4 +7,4 @@
 - 📫 How to reach me: wapchief@qq.com
 
 
-<img align="right" alt="wapchief's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wapchief&show_icons=true">
+<img align="right|top" alt="wapchief's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wapchief&show_icons=true">
