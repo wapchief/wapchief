@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on flutter
 - 🌱 Csdn: https://blog.csdn.net/wapchief
-- 👯 JianShu: https://www.jianshu.com/u/9f0bedd0835c
+- 📖 JianShu: https://www.jianshu.com/u/9f0bedd0835c
 - 📫 How to reach me: wapchief@qq.com
 
 
