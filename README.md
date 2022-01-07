@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="wapchief's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=wapchief&show_icons=true">
+<img align="right" alt="wapchief's github stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=wapchief&show_icons=true">
 
 
 - 🔭 I’m currently working on flutter
@@ -11,4 +11,4 @@
 
 <br/>
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapchief&hide=html&layout=compact&count_private=true&langs_count=8" />
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapchief&hide=html&layout=compact&count_private=true&langs_count=8" />
